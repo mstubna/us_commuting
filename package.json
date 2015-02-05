@@ -1,0 +1,23 @@
+{
+  "name": "us_commuting",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "express": "4.x",
+    "ejs": "2.x",
+    "grunt": "0.4.x",
+    "grunt-exec": "0.4.x",
+    "grunt-contrib-coffee": "0.12.x",
+    "grunt-contrib-uglify": "0.7.x",
+    "grunt-contrib-sass": "0.8.x",
+    "grunt-contrib-watch": "0.6.x",
+    "grunt-contrib-copy": "0.7.x",
+    "grunt-nodemon": "0.4.x",
+    "grunt-aws-s3": "0.11.x",
+    "async": "0.x",
+    "d3": "3.x",
+    "request": "2.x"
+  }
+}

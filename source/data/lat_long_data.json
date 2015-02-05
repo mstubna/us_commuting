@@ -1,0 +1,2250 @@
+{
+	"Houston County, Alabama": {
+		"lat": 31.1318686,
+		"lng": -85.31362179999999
+	},
+	"Jefferson County, Alabama": {
+		"lat": 33.4914122,
+		"lng": -86.9824288
+	},
+	"Lee County, Alabama": {
+		"lat": 32.5888702,
+		"lng": -85.39627689999999
+	},
+	"Mobile County, Alabama": {
+		"lat": 30.6082227,
+		"lng": -88.24611829999999
+	},
+	"Montgomery County, Alabama": {
+		"lat": 32.2077447,
+		"lng": -86.17517590000001
+	},
+	"Tuscaloosa County, Alabama": {
+		"lat": 33.3227653,
+		"lng": -87.460397
+	},
+	"Anchorage Municipality, Alaska": {
+		"lat": 61.2180556,
+		"lng": -149.9002778
+	},
+	"Fairbanks North Star Borough, Alaska": {
+		"lat": 64.9526102,
+		"lng": -146.4744155
+	},
+	"Matanuska-Susitna Borough, Alaska": {
+		"lat": 62.2599347,
+		"lng": -150.1729153
+	},
+	"Coconino County, Arizona": {
+		"lat": 35.6647545,
+		"lng": -111.4752851
+	},
+	"Maricopa County, Arizona": {
+		"lat": 33.2917968,
+		"lng": -112.4291464
+	},
+	"Pima County, Arizona": {
+		"lat": 32.057499,
+		"lng": -111.6660725
+	},
+	"Pinal County, Arizona": {
+		"lat": 32.8162061,
+		"lng": -111.2845025
+	},
+	"Yuma County, Arizona": {
+		"lat": 32.6527533,
+		"lng": -113.9536466
+	},
+	"Benton County, Arkansas": {
+		"lat": 36.2661518,
+		"lng": -94.479976
+	},
+	"Pulaski County, Arkansas": {
+		"lat": 34.75386150000001,
+		"lng": -92.2236667
+	},
+	"Alameda County, California": {
+		"lat": 37.6016892,
+		"lng": -121.7195459
+	},
+	"Butte County, California": {
+		"lat": 39.6445906,
+		"lng": -121.5543062
+	},
+	"Contra Costa County, California": {
+		"lat": 37.8534093,
+		"lng": -121.9017954
+	},
+	"El Dorado County, California": {
+		"lat": 38.74263759999999,
+		"lng": -120.4357631
+	},
+	"Fresno County, California": {
+		"lat": 36.9858984,
+		"lng": -119.2320784
+	},
+	"Humboldt County, California": {
+		"lat": 40.7450055,
+		"lng": -123.8695086
+	},
+	"Imperial County, California": {
+		"lat": 33.0113694,
+		"lng": -115.4733554
+	},
+	"Kern County, California": {
+		"lat": 35.4937274,
+		"lng": -118.8596804
+	},
+	"Kings County, California": {
+		"lat": 36.0988489,
+		"lng": -119.8815203
+	},
+	"Los Angeles County, California": {
+		"lat": 34.0522265,
+		"lng": -118.2436596
+	},
+	"Marin County, California": {
+		"lat": 38.083403,
+		"lng": -122.7633036
+	},
+	"Merced County, California": {
+		"lat": 37.2009788,
+		"lng": -120.7120023
+	},
+	"Monterey County, California": {
+		"lat": 36.3136201,
+		"lng": -121.3541631
+	},
+	"Napa County, California": {
+		"lat": 38.5024689,
+		"lng": -122.2653887
+	},
+	"Orange County, California": {
+		"lat": 33.7174708,
+		"lng": -117.8311428
+	},
+	"Placer County, California": {
+		"lat": 39.0915751,
+		"lng": -120.8039474
+	},
+	"Riverside County, California": {
+		"lat": 33.9532966,
+		"lng": -117.3961192
+	},
+	"Sacramento County, California": {
+		"lat": 38.47467,
+		"lng": -121.3541631
+	},
+	"San Bernardino County, California": {
+		"lat": 34.103345,
+		"lng": -117.271986
+	},
+	"San Diego County, California": {
+		"lat": 32.7157305,
+		"lng": -117.1610966
+	},
+	"San Francisco County, California": {
+		"lat": 37.7749073,
+		"lng": -122.4193878
+	},
+	"San Joaquin County, California": {
+		"lat": 37.9175935,
+		"lng": -121.1710389
+	},
+	"San Luis Obispo County, California": {
+		"lat": 35.3102296,
+		"lng": -120.4357631
+	},
+	"San Mateo County, California": {
+		"lat": 37.4337342,
+		"lng": -122.4014193
+	},
+	"Santa Barbara County, California": {
+		"lat": 34.4208321,
+		"lng": -119.6982057
+	},
+	"Santa Clara County, California": {
+		"lat": 37.2938907,
+		"lng": -121.7195459
+	},
+	"Santa Cruz County, California": {
+		"lat": 37.0453988,
+		"lng": -121.9579578
+	},
+	"Shasta County, California": {
+		"lat": 40.7908864,
+		"lng": -121.8474493
+	},
+	"Solano County, California": {
+		"lat": 38.3104969,
+		"lng": -121.9017954
+	},
+	"Sonoma County, California": {
+		"lat": 38.5779555,
+		"lng": -122.9888319
+	},
+	"Stanislaus County, California": {
+		"lat": 37.5090711,
+		"lng": -120.9876321
+	},
+	"Tulare County, California": {
+		"lat": 36.1341739,
+		"lng": -118.8596804
+	},
+	"Ventura County, California": {
+		"lat": 34.3704884,
+		"lng": -119.1390642
+	},
+	"Yolo County, California": {
+		"lat": 38.7646021,
+		"lng": -121.9017954
+	},
+	"Adams County, Colorado": {
+		"lat": 39.8398269,
+		"lng": -104.1930918
+	},
+	"Arapahoe County, Colorado": {
+		"lat": 39.62031,
+		"lng": -104.332644
+	},
+	"Boulder County, Colorado": {
+		"lat": 40.1512114,
+		"lng": -105.5005483
+	},
+	"Denver County, Colorado": {
+		"lat": 39.76161889999999,
+		"lng": -104.9622498
+	},
+	"Douglas County, Colorado": {
+		"lat": 39.2587106,
+		"lng": -104.9388853
+	},
+	"El Paso County, Colorado": {
+		"lat": 38.9108325,
+		"lng": -104.4723301
+	},
+	"Jefferson County, Colorado": {
+		"lat": 39.5800298,
+		"lng": -105.2662931
+	},
+	"Larimer County, Colorado": {
+		"lat": 40.6955572,
+		"lng": -105.5943388
+	},
+	"Mesa County, Colorado": {
+		"lat": 38.9585381,
+		"lng": -108.6175626
+	},
+	"Weld County, Colorado": {
+		"lat": 40.3920718,
+		"lng": -104.7158226
+	},
+	"Fairfield County, Connecticut": {
+		"lat": 41.2559654,
+		"lng": -73.37086959999999
+	},
+	"Hartford County, Connecticut": {
+		"lat": 41.7924343,
+		"lng": -72.8042797
+	},
+	"Litchfield County, Connecticut": {
+		"lat": 41.7866294,
+		"lng": -73.2765361
+	},
+	"New Haven County, Connecticut": {
+		"lat": 41.3266911,
+		"lng": -72.8042797
+	},
+	"New London County, Connecticut": {
+		"lat": 41.5185189,
+		"lng": -72.0468164
+	},
+	"Kent County, Delaware": {
+		"lat": 39.1440612,
+		"lng": -75.4344727
+	},
+	"New Castle County, Delaware": {
+		"lat": 39.5392979,
+		"lng": -75.667356
+	},
+	"Sussex County, Delaware": {
+		"lat": 38.65308410000001,
+		"lng": -75.4344727
+	},
+	"District of Columbia, District of Columbia": {
+		"lat": 38.9071923,
+		"lng": -77.0368707
+	},
+	"Alachua County, Florida": {
+		"lat": 29.6579549,
+		"lng": -82.3017728
+	},
+	"Bay County, Florida": {
+		"lat": 30.1805306,
+		"lng": -85.684578
+	},
+	"Brevard County, Florida": {
+		"lat": 28.263933,
+		"lng": -80.7214417
+	},
+	"Broward County, Florida": {
+		"lat": 26.190096,
+		"lng": -80.365865
+	},
+	"Collier County, Florida": {
+		"lat": 26.069985,
+		"lng": -81.42789839999999
+	},
+	"Duval County, Florida": {
+		"lat": 30.3500511,
+		"lng": -81.6035062
+	},
+	"Escambia County, Florida": {
+		"lat": 30.6389408,
+		"lng": -87.3413599
+	},
+	"Hillsborough County, Florida": {
+		"lat": 27.9483357,
+		"lng": -82.4548264
+	},
+	"Lee County, Florida": {
+		"lat": 26.6630286,
+		"lng": -81.9534815
+	},
+	"Leon County, Florida": {
+		"lat": 30.4906177,
+		"lng": -84.1857115
+	},
+	"Manatee County, Florida": {
+		"lat": 27.4799195,
+		"lng": -82.34518899999999
+	},
+	"Marion County, Florida": {
+		"lat": 29.2787765,
+		"lng": -82.12783999999999
+	},
+	"Martin County, Florida": {
+		"lat": 27.0804935,
+		"lng": -80.4103957
+	},
+	"Miami-Dade County, Florida": {
+		"lat": 25.7616798,
+		"lng": -80.1917902
+	},
+	"Okaloosa County, Florida": {
+		"lat": 30.57734009999999,
+		"lng": -86.6611083
+	},
+	"Orange County, Florida": {
+		"lat": 28.4844995,
+		"lng": -81.2518833
+	},
+	"Osceola County, Florida": {
+		"lat": 28.1019838,
+		"lng": -81.0754657
+	},
+	"Palm Beach County, Florida": {
+		"lat": 26.6514503,
+		"lng": -80.2767327
+	},
+	"Pasco County, Florida": {
+		"lat": 28.3232418,
+		"lng": -82.4319405
+	},
+	"Pinellas County, Florida": {
+		"lat": 27.876394,
+		"lng": -82.7778579
+	},
+	"Polk County, Florida": {
+		"lat": 27.8617347,
+		"lng": -81.6911559
+	},
+	"Santa Rosa County, Florida": {
+		"lat": 30.7689907,
+		"lng": -86.9824288
+	},
+	"Sarasota County, Florida": {
+		"lat": 27.1995986,
+		"lng": -82.34518899999999
+	},
+	"Seminole County, Florida": {
+		"lat": 28.7131688,
+		"lng": -81.20781640000001
+	},
+	"Volusia County, Florida": {
+		"lat": 29.0279842,
+		"lng": -81.0754657
+	},
+	"Chatham County, Georgia": {
+		"lat": 31.9994194,
+		"lng": -81.1196075
+	},
+	"Clarke County, Georgia": {
+		"lat": 33.9519347,
+		"lng": -83.357567
+	},
+	"Clayton County, Georgia": {
+		"lat": 33.5571944,
+		"lng": -84.375233
+	},
+	"Cobb County, Georgia": {
+		"lat": 33.8999297,
+		"lng": -84.56414699999999
+	},
+	"DeKalb County, Georgia": {
+		"lat": 33.7956441,
+		"lng": -84.2278796
+	},
+	"Fulton County, Georgia": {
+		"lat": 33.8033965,
+		"lng": -84.3962535
+	},
+	"Gwinnett County, Georgia": {
+		"lat": 33.9190653,
+		"lng": -84.01674229999999
+	},
+	"Hall County, Georgia": {
+		"lat": 34.30778,
+		"lng": -83.804868
+	},
+	"Henry County, Georgia": {
+		"lat": 33.4347963,
+		"lng": -84.14351359999999
+	},
+	"Richmond County, Georgia": {
+		"lat": 33.3205339,
+		"lng": -82.08429009999999
+	},
+	"Hawaii County, Hawaii": {
+		"lat": 19.5429151,
+		"lng": -155.6658568
+	},
+	"Honolulu County, Hawaii": {
+		"lat": 21.3069857,
+		"lng": -157.8584319
+	},
+	"Maui County, Hawaii": {
+		"lat": 20.7983626,
+		"lng": -156.3319253
+	},
+	"Ada County, Idaho": {
+		"lat": 43.478767,
+		"lng": -116.2420304
+	},
+	"Bonneville County, Idaho": {
+		"lat": 43.4508683,
+		"lng": -111.5455289
+	},
+	"Canyon County, Idaho": {
+		"lat": 43.67795810000001,
+		"lng": -116.6865435
+	},
+	"Kootenai County, Idaho": {
+		"lat": 47.7568407,
+		"lng": -116.6222056
+	},
+	"Champaign County, Illinois": {
+		"lat": 40.2138865,
+		"lng": -88.24611829999999
+	},
+	"Cook County, Illinois": {
+		"lat": 41.7376587,
+		"lng": -87.697554
+	},
+	"DuPage County, Illinois": {
+		"lat": 41.8243831,
+		"lng": -88.0900762
+	},
+	"Kane County, Illinois": {
+		"lat": 41.987884,
+		"lng": -88.4016041
+	},
+	"Kankakee County, Illinois": {
+		"lat": 41.1790977,
+		"lng": -87.77633329999999
+	},
+	"Lake County, Illinois": {
+		"lat": 42.3689363,
+		"lng": -87.8271534
+	},
+	"McHenry County, Illinois": {
+		"lat": 42.3039993,
+		"lng": -88.4016041
+	},
+	"McLean County, Illinois": {
+		"lat": 40.5478429,
+		"lng": -88.86469799999999
+	},
+	"Macon County, Illinois": {
+		"lat": 39.8949055,
+		"lng": -89.0179332
+	},
+	"Madison County, Illinois": {
+		"lat": 38.9041402,
+		"lng": -89.9253233
+	},
+	"Peoria County, Illinois": {
+		"lat": 40.7156396,
+		"lng": -89.77553379999999
+	},
+	"Rock Island County, Illinois": {
+		"lat": 41.39982089999999,
+		"lng": -90.563609
+	},
+	"St. Clair County, Illinois": {
+		"lat": 38.40081199999999,
+		"lng": -89.9253233
+	},
+	"Sangamon County, Illinois": {
+		"lat": 39.7337353,
+		"lng": -89.62516459999999
+	},
+	"Will County, Illinois": {
+		"lat": 41.5054724,
+		"lng": -88.0900762
+	},
+	"Winnebago County, Illinois": {
+		"lat": 42.3121109,
+		"lng": -89.1705998
+	},
+	"Allen County, Indiana": {
+		"lat": 41.0932622,
+		"lng": -85.02334599999999
+	},
+	"Elkhart County, Indiana": {
+		"lat": 41.6062253,
+		"lng": -85.84862360000001
+	},
+	"Hamilton County, Indiana": {
+		"lat": 40.0372797,
+		"lng": -86.05296039999999
+	},
+	"Lake County, Indiana": {
+		"lat": 41.4897279,
+		"lng": -87.30161319999999
+	},
+	"Marion County, Indiana": {
+		"lat": 39.83618999999999,
+		"lng": -86.17517590000001
+	},
+	"Monroe County, Indiana": {
+		"lat": 39.1851445,
+		"lng": -86.49965460000001
+	},
+	"Porter County, Indiana": {
+		"lat": 41.5248577,
+		"lng": -87.10237459999999
+	},
+	"St. Joseph County, Indiana": {
+		"lat": 41.6228085,
+		"lng": -86.3376761
+	},
+	"Tippecanoe County, Indiana": {
+		"lat": 40.34697310000001,
+		"lng": -86.8220341
+	},
+	"Vanderburgh County, Indiana": {
+		"lat": 38.0806099,
+		"lng": -87.5791287
+	},
+	"Johnson County, Iowa": {
+		"lat": 41.6698982,
+		"lng": -91.5983959
+	},
+	"Linn County, Iowa": {
+		"lat": 42.0659844,
+		"lng": -91.67606909999999
+	},
+	"Polk County, Iowa": {
+		"lat": 41.6278423,
+		"lng": -93.5003454
+	},
+	"Woodbury County, Iowa": {
+		"lat": 42.3166158,
+		"lng": -95.9832577
+	},
+	"Douglas County, Kansas": {
+		"lat": 38.9107835,
+		"lng": -95.26844369999999
+	},
+	"Johnson County, Kansas": {
+		"lat": 38.845412,
+		"lng": -94.8520636
+	},
+	"Sedgwick County, Kansas": {
+		"lat": 37.6537367,
+		"lng": -97.5247243
+	},
+	"Shawnee County, Kansas": {
+		"lat": 39.0928449,
+		"lng": -95.81428849999999
+	},
+	"Wyandotte County, Kansas": {
+		"lat": 39.0986811,
+		"lng": -94.7691586
+	},
+	"Fayette County, Kentucky": {
+		"lat": 38.06064780000001,
+		"lng": -84.4802606
+	},
+	"Jefferson County, Kentucky": {
+		"lat": 38.1938097,
+		"lng": -85.64348700000001
+	},
+	"Kenton County, Kentucky": {
+		"lat": 38.9863872,
+		"lng": -84.56414699999999
+	},
+	"Warren County, Kentucky": {
+		"lat": 36.9886043,
+		"lng": -86.49965460000001
+	},
+	"Caddo Parish, Louisiana": {
+		"lat": 32.6136798,
+		"lng": -93.86553029999999
+	},
+	"East Baton Rouge Parish, Louisiana": {
+		"lat": 30.5693593,
+		"lng": -91.09693999999999
+	},
+	"Jefferson Parish, Louisiana": {
+		"lat": 29.6498691,
+		"lng": -90.11206960000001
+	},
+	"Lafayette Parish, Louisiana": {
+		"lat": 30.1895142,
+		"lng": -92.02731899999999
+	},
+	"Orleans Parish, Louisiana": {
+		"lat": 30.1126874,
+		"lng": -89.8879304
+	},
+	"Rapides Parish, Louisiana": {
+		"lat": 31.1461104,
+		"lng": -92.539603
+	},
+	"St. Tammany Parish, Louisiana": {
+		"lat": 30.4357418,
+		"lng": -89.9253233
+	},
+	"Aroostook County, Maine": {
+		"lat": 46.82,
+		"lng": -67.92361
+	},
+	"Cumberland County, Maine": {
+		"lat": 43.81329789999999,
+		"lng": -70.3870587
+	},
+	"Penobscot County, Maine": {
+		"lat": 45.3230777,
+		"lng": -68.5806727
+	},
+	"York County, Maine": {
+		"lat": 43.4132697,
+		"lng": -70.6702521
+	},
+	"Anne Arundel County, Maryland": {
+		"lat": 38.9530109,
+		"lng": -76.5488232
+	},
+	"Baltimore County, Maryland": {
+		"lat": 39.4647665,
+		"lng": -76.7336521
+	},
+	"Carroll County, Maryland": {
+		"lat": 39.5423418,
+		"lng": -77.0564464
+	},
+	"Charles County, Maryland": {
+		"lat": 38.5221781,
+		"lng": -77.10249019999999
+	},
+	"Frederick County, Maryland": {
+		"lat": 39.3844507,
+		"lng": -77.4701972
+	},
+	"Harford County, Maryland": {
+		"lat": 39.5838964,
+		"lng": -76.3637285
+	},
+	"Howard County, Maryland": {
+		"lat": 39.2873463,
+		"lng": -76.964306
+	},
+	"Montgomery County, Maryland": {
+		"lat": 39.1547426,
+		"lng": -77.2405153
+	},
+	"Prince George's County, Maryland": {
+		"lat": 38.78492110000001,
+		"lng": -76.8720961
+	},
+	"Washington County, Maryland": {
+		"lat": 39.641762,
+		"lng": -77.719993
+	},
+	"Wicomico County, Maryland": {
+		"lat": 38.3941813,
+		"lng": -75.667356
+	},
+	"Baltimore city, Maryland": {
+		"lat": 39.2903848,
+		"lng": -76.6121893
+	},
+	"Barnstable County, Massachusetts": {
+		"lat": 41.69909579999999,
+		"lng": -70.32091129999999
+	},
+	"Bristol County, Massachusetts": {
+		"lat": 41.7938406,
+		"lng": -71.1448516
+	},
+	"Hampden County, Massachusetts": {
+		"lat": 42.1172314,
+		"lng": -72.6624209
+	},
+	"Hampshire County, Massachusetts": {
+		"lat": 42.3471357,
+		"lng": -72.6624209
+	},
+	"Middlesex County, Massachusetts": {
+		"lat": 42.467206,
+		"lng": -71.2874209
+	},
+	"Norfolk County, Massachusetts": {
+		"lat": 42.17668,
+		"lng": -71.1448516
+	},
+	"Plymouth County, Massachusetts": {
+		"lat": 41.9120406,
+		"lng": -70.7168469
+	},
+	"Suffolk County, Massachusetts": {
+		"lat": 42.3522866,
+		"lng": -71.0504229
+	},
+	"Worcester County, Massachusetts": {
+		"lat": 42.4096528,
+		"lng": -71.8571331
+	},
+	"Allegan County, Michigan": {
+		"lat": 42.5938744,
+		"lng": -85.9084434
+	},
+	"Calhoun County, Michigan": {
+		"lat": 42.2073905,
+		"lng": -85.02334599999999
+	},
+	"Genesee County, Michigan": {
+		"lat": 43.0777289,
+		"lng": -83.67739279999999
+	},
+	"Ingham County, Michigan": {
+		"lat": 42.6468943,
+		"lng": -84.3542049
+	},
+	"Isabella County, Michigan": {
+		"lat": 43.598799,
+		"lng": -84.8567932
+	},
+	"Jackson County, Michigan": {
+		"lat": 42.1764362,
+		"lng": -84.3542049
+	},
+	"Kalamazoo County, Michigan": {
+		"lat": 42.2278346,
+		"lng": -85.52002399999999
+	},
+	"Kent County, Michigan": {
+		"lat": 43.0097027,
+		"lng": -85.52002399999999
+	},
+	"Livingston County, Michigan": {
+		"lat": 42.6207951,
+		"lng": -83.8473015
+	},
+	"Macomb County, Michigan": {
+		"lat": 42.7168759,
+		"lng": -82.82097399999999
+	},
+	"Muskegon County, Michigan": {
+		"lat": 43.294941,
+		"lng": -86.1261056
+	},
+	"Oakland County, Michigan": {
+		"lat": 42.59219239999999,
+		"lng": -83.33618799999999
+	},
+	"Ottawa County, Michigan": {
+		"lat": 42.95302299999999,
+		"lng": -86.0937312
+	},
+	"Saginaw County, Michigan": {
+		"lat": 43.4044253,
+		"lng": -84.01674229999999
+	},
+	"St. Clair County, Michigan": {
+		"lat": 43.016179,
+		"lng": -82.6483442
+	},
+	"Washtenaw County, Michigan": {
+		"lat": 42.3076493,
+		"lng": -83.8473015
+	},
+	"Wayne County, Michigan": {
+		"lat": 42.2790746,
+		"lng": -83.33618799999999
+	},
+	"Anoka County, Minnesota": {
+		"lat": 45.3292832,
+		"lng": -93.2197005
+	},
+	"Dakota County, Minnesota": {
+		"lat": 44.731554,
+		"lng": -93.17796589999999
+	},
+	"Hennepin County, Minnesota": {
+		"lat": 45.0208911,
+		"lng": -93.5094574
+	},
+	"Olmsted County, Minnesota": {
+		"lat": 43.995179,
+		"lng": -92.38136209999999
+	},
+	"Ramsey County, Minnesota": {
+		"lat": 44.9963986,
+		"lng": -93.0615978
+	},
+	"St. Louis County, Minnesota": {
+		"lat": 47.7395106,
+		"lng": -92.3623921
+	},
+	"Stearns County, Minnesota": {
+		"lat": 45.5844792,
+		"lng": -94.5865603
+	},
+	"Washington County, Minnesota": {
+		"lat": 44.8896877,
+		"lng": -92.8577105
+	},
+	"Wright County, Minnesota": {
+		"lat": 45.1538202,
+		"lng": -94.01909429999999
+	},
+	"Harrison County, Mississippi": {
+		"lat": 30.432087,
+		"lng": -89.0179332
+	},
+	"Hinds County, Mississippi": {
+		"lat": 32.2648353,
+		"lng": -90.37483540000001
+	},
+	"Boone County, Missouri": {
+		"lat": 39.0468547,
+		"lng": -92.38136209999999
+	},
+	"Clay County, Missouri": {
+		"lat": 39.3176186,
+		"lng": -94.479976
+	},
+	"Greene County, Missouri": {
+		"lat": 37.3311215,
+		"lng": -93.5003454
+	},
+	"Jackson County, Missouri": {
+		"lat": 38.9914998,
+		"lng": -94.315422
+	},
+	"Jefferson County, Missouri": {
+		"lat": 38.2310301,
+		"lng": -90.52578229999999
+	},
+	"St. Charles County, Missouri": {
+		"lat": 38.7338885,
+		"lng": -90.8294002
+	},
+	"St. Louis County, Missouri": {
+		"lat": 38.6103023,
+		"lng": -90.4125181
+	},
+	"St. Louis city, Missouri": {
+		"lat": 38.6270025,
+		"lng": -90.19940419999999
+	},
+	"Cascade County, Montana": {
+		"lat": 47.4688355,
+		"lng": -111.5453228
+	},
+	"Gallatin County, Montana": {
+		"lat": 45.5388865,
+		"lng": -111.1194231
+	},
+	"Missoula County, Montana": {
+		"lat": 47.0240503,
+		"lng": -113.6869923
+	},
+	"Douglas County, Nebraska": {
+		"lat": 41.3148116,
+		"lng": -96.19513200000002
+	},
+	"Lancaster County, Nebraska": {
+		"lat": 40.8471492,
+		"lng": -96.663812
+	},
+	"Clark County, Nevada": {
+		"lat": 36.0795613,
+		"lng": -115.094045
+	},
+	"Washoe County, Nevada": {
+		"lat": 40.5608387,
+		"lng": -119.6035495
+	},
+	"Hillsborough County, New Hampshire": {
+		"lat": 42.83347939999999,
+		"lng": -71.6673352
+	},
+	"Rockingham County, New Hampshire": {
+		"lat": 42.9931261,
+		"lng": -71.0497768
+	},
+	"Strafford County, New Hampshire": {
+		"lat": 43.238329,
+		"lng": -71.0236044
+	},
+	"Atlantic County, New Jersey": {
+		"lat": 39.5333379,
+		"lng": -74.6868815
+	},
+	"Bergen County, New Jersey": {
+		"lat": 40.9262762,
+		"lng": -74.07701
+	},
+	"Burlington County, New Jersey": {
+		"lat": 39.8558488,
+		"lng": -74.6868815
+	},
+	"Camden County, New Jersey": {
+		"lat": 39.8592439,
+		"lng": -75.0143824
+	},
+	"Cumberland County, New Jersey": {
+		"lat": 39.2587106,
+		"lng": -75.06111469999999
+	},
+	"Essex County, New Jersey": {
+		"lat": 40.7947466,
+		"lng": -74.2648829
+	},
+	"Gloucester County, New Jersey": {
+		"lat": 39.7103023,
+		"lng": -75.1078332
+	},
+	"Hudson County, New Jersey": {
+		"lat": 40.7453199,
+		"lng": -74.05351259999999
+	},
+	"Hunterdon County, New Jersey": {
+		"lat": 40.56695149999999,
+		"lng": -74.92087719999999
+	},
+	"Mercer County, New Jersey": {
+		"lat": 40.3028533,
+		"lng": -74.7337069
+	},
+	"Middlesex County, New Jersey": {
+		"lat": 40.4111363,
+		"lng": -74.35874729999999
+	},
+	"Monmouth County, New Jersey": {
+		"lat": 40.2589455,
+		"lng": -74.12399599999999
+	},
+	"Morris County, New Jersey": {
+		"lat": 40.8336038,
+		"lng": -74.54632819999999
+	},
+	"Ocean County, New Jersey": {
+		"lat": 39.9652553,
+		"lng": -74.3118212
+	},
+	"Passaic County, New Jersey": {
+		"lat": 41.1231647,
+		"lng": -74.35874729999999
+	},
+	"Somerset County, New Jersey": {
+		"lat": 40.5292099,
+		"lng": -74.64004320000001
+	},
+	"Sussex County, New Jersey": {
+		"lat": 41.1288481,
+		"lng": -74.6868815
+	},
+	"Union County, New Jersey": {
+		"lat": 40.6595001,
+		"lng": -74.2883536
+	},
+	"Warren County, New Jersey": {
+		"lat": 40.8841854,
+		"lng": -74.92087719999999
+	},
+	"Bernalillo County, New Mexico": {
+		"lat": 35.0177854,
+		"lng": -106.6291304
+	},
+	"Dona Ana County, New Mexico": {
+		"lat": 32.485767,
+		"lng": -106.7234639
+	},
+	"Sandoval County, New Mexico": {
+		"lat": 35.6020667,
+		"lng": -106.7234639
+	},
+	"Santa Fe County, New Mexico": {
+		"lat": 35.3653705,
+		"lng": -105.9699878
+	},
+	"Albany County, New York": {
+		"lat": 42.57567969999999,
+		"lng": -73.93598209999999
+	},
+	"Bronx County, New York": {
+		"lat": 40.8370495,
+		"lng": -73.86542949999999
+	},
+	"Broome County, New York": {
+		"lat": 42.1791865,
+		"lng": -75.8533954
+	},
+	"Chautauqua County, New York": {
+		"lat": 42.2312829,
+		"lng": -79.560344
+	},
+	"Dutchess County, New York": {
+		"lat": 41.7784372,
+		"lng": -73.7477857
+	},
+	"Erie County, New York": {
+		"lat": 42.9023958,
+		"lng": -78.8661589
+	},
+	"Kings County, New York": {
+		"lat": 40.6781784,
+		"lng": -73.9441579
+	},
+	"Monroe County, New York": {
+		"lat": 43.2841246,
+		"lng": -77.7452081
+	},
+	"Nassau County, New York": {
+		"lat": 40.6546145,
+		"lng": -73.55941279999999
+	},
+	"New York County, New York": {
+		"lat": 40.790278,
+		"lng": -73.959722
+	},
+	"Niagara County, New York": {
+		"lat": 43.3119496,
+		"lng": -78.74762079999999
+	},
+	"Oneida County, New York": {
+		"lat": 43.2371798,
+		"lng": -75.4344727
+	},
+	"Onondaga County, New York": {
+		"lat": 43.026819,
+		"lng": -76.17837390000001
+	},
+	"Orange County, New York": {
+		"lat": 41.3911653,
+		"lng": -74.3118212
+	},
+	"Putnam County, New York": {
+		"lat": 41.4351069,
+		"lng": -73.7948516
+	},
+	"Queens County, New York": {
+		"lat": 40.7282239,
+		"lng": -73.7948516
+	},
+	"Rensselaer County, New York": {
+		"lat": 42.673664,
+		"lng": -73.55941279999999
+	},
+	"Richmond County, New York": {
+		"lat": 40.5795317,
+		"lng": -74.1502007
+	},
+	"Rockland County, New York": {
+		"lat": 41.1489458,
+		"lng": -73.98300290000002
+	},
+	"Saratoga County, New York": {
+		"lat": 43.0324245,
+		"lng": -73.93598209999999
+	},
+	"Steuben County, New York": {
+		"lat": 42.321027,
+		"lng": -77.3783789
+	},
+	"Suffolk County, New York": {
+		"lat": 40.9848784,
+		"lng": -72.61511689999999
+	},
+	"Ulster County, New York": {
+		"lat": 41.8586493,
+		"lng": -74.3118212
+	},
+	"Westchester County, New York": {
+		"lat": 41.1220194,
+		"lng": -73.7948516
+	},
+	"Buncombe County, North Carolina": {
+		"lat": 35.59313770000001,
+		"lng": -82.4752757
+	},
+	"Craven County, North Carolina": {
+		"lat": 35.0877672,
+		"lng": -77.0564464
+	},
+	"Cumberland County, North Carolina": {
+		"lat": 34.9542604,
+		"lng": -78.74762079999999
+	},
+	"Durham County, North Carolina": {
+		"lat": 36.0221805,
+		"lng": -78.9031279
+	},
+	"Forsyth County, North Carolina": {
+		"lat": 36.1200003,
+		"lng": -80.1875065
+	},
+	"Guilford County, North Carolina": {
+		"lat": 36.0899873,
+		"lng": -79.8296743
+	},
+	"Mecklenburg County, North Carolina": {
+		"lat": 35.2632655,
+		"lng": -80.8543847
+	},
+	"New Hanover County, North Carolina": {
+		"lat": 34.2154913,
+		"lng": -77.88245959999999
+	},
+	"Onslow County, North Carolina": {
+		"lat": 34.6540094,
+		"lng": -77.4701972
+	},
+	"Orange County, North Carolina": {
+		"lat": 36.0263022,
+		"lng": -79.1096901
+	},
+	"Wake County, North Carolina": {
+		"lat": 35.8031909,
+		"lng": -78.5660852
+	},
+	"Burleigh County, North Dakota": {
+		"lat": 47.0448552,
+		"lng": -100.5049676
+	},
+	"Cass County, North Dakota": {
+		"lat": 47.071168,
+		"lng": -97.12155790000001
+	},
+	"Butler County, Ohio": {
+		"lat": 39.440463,
+		"lng": -84.5222189
+	},
+	"Cuyahoga County, Ohio": {
+		"lat": 41.433923,
+		"lng": -81.67582
+	},
+	"Franklin County, Ohio": {
+		"lat": 40.0154745,
+		"lng": -82.99316069999999
+	},
+	"Hamilton County, Ohio": {
+		"lat": 39.2355447,
+		"lng": -84.56414699999999
+	},
+	"Lake County, Ohio": {
+		"lat": 41.7112669,
+		"lng": -81.24558549999999
+	},
+	"Lorain County, Ohio": {
+		"lat": 41.4116881,
+		"lng": -82.12783999999999
+	},
+	"Lucas County, Ohio": {
+		"lat": 41.6894388,
+		"lng": -83.3789389
+	},
+	"Mahoning County, Ohio": {
+		"lat": 40.9871753,
+		"lng": -80.7214417
+	},
+	"Montgomery County, Ohio": {
+		"lat": 39.7620028,
+		"lng": -84.3542049
+	},
+	"Stark County, Ohio": {
+		"lat": 40.8684676,
+		"lng": -81.2518833
+	},
+	"Summit County, Ohio": {
+		"lat": 41.0918991,
+		"lng": -81.5596427
+	},
+	"Trumbull County, Ohio": {
+		"lat": 41.3064984,
+		"lng": -80.7214417
+	},
+	"Warren County, Ohio": {
+		"lat": 39.4241422,
+		"lng": -84.1857115
+	},
+	"Cleveland County, Oklahoma": {
+		"lat": 35.254964,
+		"lng": -97.35165579999999
+	},
+	"Comanche County, Oklahoma": {
+		"lat": 34.6612778,
+		"lng": -98.3964938
+	},
+	"Oklahoma County, Oklahoma": {
+		"lat": 35.6038323,
+		"lng": -97.35165579999999
+	},
+	"Tulsa County, Oklahoma": {
+		"lat": 36.1593471,
+		"lng": -95.94097099999999
+	},
+	"Benton County, Oregon": {
+		"lat": 44.6281686,
+		"lng": -123.3873877
+	},
+	"Clackamas County, Oregon": {
+		"lat": 45.2023855,
+		"lng": -122.1188945
+	},
+	"Deschutes County, Oregon": {
+		"lat": 43.83251,
+		"lng": -121.2616541
+	},
+	"Jackson County, Oregon": {
+		"lat": 42.334535,
+		"lng": -122.7646577
+	},
+	"Lane County, Oregon": {
+		"lat": 43.9610092,
+		"lng": -122.6618227
+	},
+	"Marion County, Oregon": {
+		"lat": 44.8446393,
+		"lng": -122.5927411
+	},
+	"Multnomah County, Oregon": {
+		"lat": 45.5145659,
+		"lng": -122.5863212
+	},
+	"Washington County, Oregon": {
+		"lat": 45.5469616,
+		"lng": -123.1386021
+	},
+	"Allegheny County, Pennsylvania": {
+		"lat": 40.4450813,
+		"lng": -80.0087746
+	},
+	"Beaver County, Pennsylvania": {
+		"lat": 40.6367812,
+		"lng": -80.365865
+	},
+	"Berks County, Pennsylvania": {
+		"lat": 40.3451566,
+		"lng": -75.9927652
+	},
+	"Bucks County, Pennsylvania": {
+		"lat": 40.4107964,
+		"lng": -75.2479061
+	},
+	"Cambria County, Pennsylvania": {
+		"lat": 40.4894231,
+		"lng": -78.74762079999999
+	},
+	"Centre County, Pennsylvania": {
+		"lat": 40.8765649,
+		"lng": -77.8367282
+	},
+	"Chester County, Pennsylvania": {
+		"lat": 40.0010204,
+		"lng": -75.8069082
+	},
+	"Crawford County, Pennsylvania": {
+		"lat": 41.6661391,
+		"lng": -80.2767327
+	},
+	"Cumberland County, Pennsylvania": {
+		"lat": 40.1299841,
+		"lng": -77.2405153
+	},
+	"Dauphin County, Pennsylvania": {
+		"lat": 40.2734277,
+		"lng": -76.7336521
+	},
+	"Delaware County, Pennsylvania": {
+		"lat": 39.907793,
+		"lng": -75.3878525
+	},
+	"Erie County, Pennsylvania": {
+		"lat": 42.0521954,
+		"lng": -80.1875065
+	},
+	"Franklin County, Pennsylvania": {
+		"lat": 39.8923855,
+		"lng": -77.6536125
+	},
+	"Lackawanna County, Pennsylvania": {
+		"lat": 41.4421199,
+		"lng": -75.5742467
+	},
+	"Lancaster County, Pennsylvania": {
+		"lat": 40.0466571,
+		"lng": -76.17837390000001
+	},
+	"Lawrence County, Pennsylvania": {
+		"lat": 40.957855,
+		"lng": -80.365865
+	},
+	"Lebanon County, Pennsylvania": {
+		"lat": 40.3666686,
+		"lng": -76.5025742
+	},
+	"Lehigh County, Pennsylvania": {
+		"lat": 40.6519679,
+		"lng": -75.5742467
+	},
+	"Luzerne County, Pennsylvania": {
+		"lat": 41.1404353,
+		"lng": -75.9927652
+	},
+	"Lycoming County, Pennsylvania": {
+		"lat": 41.2720004,
+		"lng": -77.10249019999999
+	},
+	"Montgomery County, Pennsylvania": {
+		"lat": 40.2290075,
+		"lng": -75.3878525
+	},
+	"Northampton County, Pennsylvania": {
+		"lat": 40.7749283,
+		"lng": -75.294569
+	},
+	"Philadelphia County, Pennsylvania": {
+		"lat": 40.0152766,
+		"lng": -75.1311874
+	},
+	"Schuylkill County, Pennsylvania": {
+		"lat": 40.6873058,
+		"lng": -76.17837390000001
+	},
+	"Washington County, Pennsylvania": {
+		"lat": 40.1367719,
+		"lng": -80.1875065
+	},
+	"Westmoreland County, Pennsylvania": {
+		"lat": 40.2353963,
+		"lng": -79.4703885
+	},
+	"York County, Pennsylvania": {
+		"lat": 39.9512496,
+		"lng": -76.7336521
+	},
+	"Providence County, Rhode Island": {
+		"lat": 41.8881582,
+		"lng": -71.4774291
+	},
+	"Washington County, Rhode Island": {
+		"lat": 41.45681130000001,
+		"lng": -71.6673352
+	},
+	"Charleston County, South Carolina": {
+		"lat": 32.7956561,
+		"lng": -79.7848422
+	},
+	"Greenville County, South Carolina": {
+		"lat": 34.9297484,
+		"lng": -82.34518899999999
+	},
+	"Lexington County, South Carolina": {
+		"lat": 33.9309651,
+		"lng": -81.2518833
+	},
+	"Richland County, South Carolina": {
+		"lat": 34.0412165,
+		"lng": -80.9428911
+	},
+	"Spartanburg County, South Carolina": {
+		"lat": 34.860551,
+		"lng": -81.9534815
+	},
+	"York County, South Carolina": {
+		"lat": 34.9871367,
+		"lng": -81.2518833
+	},
+	"Minnehaha County, South Dakota": {
+		"lat": 43.6631787,
+		"lng": -96.83509989999999
+	},
+	"Davidson County, Tennessee": {
+		"lat": 36.1342563,
+		"lng": -86.8220341
+	},
+	"Hamilton County, Tennessee": {
+		"lat": 35.1618966,
+		"lng": -85.14793639999999
+	},
+	"Knox County, Tennessee": {
+		"lat": 35.9874629,
+		"lng": -83.9419784
+	},
+	"Montgomery County, Tennessee": {
+		"lat": 36.4960406,
+		"lng": -87.460397
+	},
+	"Rutherford County, Tennessee": {
+		"lat": 35.7724263,
+		"lng": -86.3376761
+	},
+	"Shelby County, Tennessee": {
+		"lat": 35.1268552,
+		"lng": -89.9253233
+	},
+	"Bell County, Texas": {
+		"lat": 31.134411,
+		"lng": -97.5247243
+	},
+	"Bexar County, Texas": {
+		"lat": 29.4200763,
+		"lng": -98.5721016
+	},
+	"Brazoria County, Texas": {
+		"lat": 29.2131857,
+		"lng": -95.4777811
+	},
+	"Brazos County, Texas": {
+		"lat": 30.6504141,
+		"lng": -96.3226072
+	},
+	"Cameron County, Texas": {
+		"lat": 26.1284971,
+		"lng": -97.5247243
+	},
+	"Collin County, Texas": {
+		"lat": 33.1795213,
+		"lng": -96.49297969999999
+	},
+	"Dallas County, Texas": {
+		"lat": 32.8024682,
+		"lng": -96.83509989999999
+	},
+	"Denton County, Texas": {
+		"lat": 33.1418611,
+		"lng": -97.179026
+	},
+	"Ellis County, Texas": {
+		"lat": 32.2619765,
+		"lng": -96.83509989999999
+	},
+	"El Paso County, Texas": {
+		"lat": 31.8039824,
+		"lng": -106.2051484
+	},
+	"Fort Bend County, Texas": {
+		"lat": 29.5692614,
+		"lng": -95.81428849999999
+	},
+	"Galveston County, Texas": {
+		"lat": 29.37634989999999,
+		"lng": -94.8520636
+	},
+	"Harris County, Texas": {
+		"lat": 29.7751825,
+		"lng": -95.3102505
+	},
+	"Hays County, Texas": {
+		"lat": 30.0537607,
+		"lng": -98.0028892
+	},
+	"Hidalgo County, Texas": {
+		"lat": 26.4656319,
+		"lng": -98.2212979
+	},
+	"Jefferson County, Texas": {
+		"lat": 29.8165398,
+		"lng": -94.15137639999999
+	},
+	"Lubbock County, Texas": {
+		"lat": 33.6753624,
+		"lng": -101.7979613
+	},
+	"McLennan County, Texas": {
+		"lat": 31.5182285,
+		"lng": -97.179026
+	},
+	"Montgomery County, Texas": {
+		"lat": 30.3213482,
+		"lng": -95.4777811
+	},
+	"Nueces County, Texas": {
+		"lat": 27.7693351,
+		"lng": -97.4814163
+	},
+	"Smith County, Texas": {
+		"lat": 32.3352505,
+		"lng": -95.3102505
+	},
+	"Tarrant County, Texas": {
+		"lat": 32.7732044,
+		"lng": -97.35165579999999
+	},
+	"Tom Green County, Texas": {
+		"lat": 31.3839017,
+		"lng": -100.439656
+	},
+	"Travis County, Texas": {
+		"lat": 30.2097015,
+		"lng": -97.69822719999999
+	},
+	"Webb County, Texas": {
+		"lat": 27.8174487,
+		"lng": -99.0128926
+	},
+	"Williamson County, Texas": {
+		"lat": 30.7591685,
+		"lng": -97.69822719999999
+	},
+	"Cache County, Utah": {
+		"lat": 41.7560026,
+		"lng": -111.7614661
+	},
+	"Davis County, Utah": {
+		"lat": 40.9628845,
+		"lng": -112.0953297
+	},
+	"Salt Lake County, Utah": {
+		"lat": 40.644188,
+		"lng": -111.9522491
+	},
+	"Utah County, Utah": {
+		"lat": 40.0966287,
+		"lng": -111.5706786
+	},
+	"Weber County, Utah": {
+		"lat": 41.2602635,
+		"lng": -111.9522491
+	},
+	"Chittenden County, Vermont": {
+		"lat": 44.3959289,
+		"lng": -72.9962431
+	},
+	"Albemarle County, Virginia": {
+		"lat": 38.0567092,
+		"lng": -78.6114999
+	},
+	"Arlington County, Virginia": {
+		"lat": 38.8816208,
+		"lng": -77.09098089999999
+	},
+	"Chesterfield County, Virginia": {
+		"lat": 37.3673217,
+		"lng": -77.6077865
+	},
+	"Fairfax County, Virginia": {
+		"lat": 38.9085472,
+		"lng": -77.2405153
+	},
+	"Henrico County, Virginia": {
+		"lat": 37.5059332,
+		"lng": -77.3324425
+	},
+	"Loudoun County, Virginia": {
+		"lat": 39.076767,
+		"lng": -77.6536125
+	},
+	"Prince William County, Virginia": {
+		"lat": 38.7838939,
+		"lng": -77.6077865
+	},
+	"Spotsylvania County, Virginia": {
+		"lat": 38.204165,
+		"lng": -77.6077865
+	},
+	"Stafford County, Virginia": {
+		"lat": 38.4334566,
+		"lng": -77.4242972
+	},
+	"Alexandria city, Virginia": {
+		"lat": 38.8048355,
+		"lng": -77.0469214
+	},
+	"Chesapeake city, Virginia": {
+		"lat": 36.7682088,
+		"lng": -76.2874927
+	},
+	"Hampton city, Virginia": {
+		"lat": 37.0298687,
+		"lng": -76.34522179999999
+	},
+	"Newport News city, Virginia": {
+		"lat": 37.0870821,
+		"lng": -76.4730122
+	},
+	"Norfolk city, Virginia": {
+		"lat": 36.8507689,
+		"lng": -76.28587259999999
+	},
+	"Richmond city, Virginia": {
+		"lat": 37.5407246,
+		"lng": -77.4360481
+	},
+	"Virginia Beach city, Virginia": {
+		"lat": 36.8529263,
+		"lng": -75.97798499999999
+	},
+	"Benton County, Washington": {
+		"lat": 46.3166362,
+		"lng": -119.5021582
+	},
+	"Clark County, Washington": {
+		"lat": 45.7466471,
+		"lng": -122.5194378
+	},
+	"Island County, Washington": {
+		"lat": 48.19765,
+		"lng": -122.579457
+	},
+	"King County, Washington": {
+		"lat": 47.5480339,
+		"lng": -121.9836029
+	},
+	"Kitsap County, Washington": {
+		"lat": 47.6476607,
+		"lng": -122.6412583
+	},
+	"Pierce County, Washington": {
+		"lat": 47.0675877,
+		"lng": -122.1295269
+	},
+	"Skagit County, Washington": {
+		"lat": 48.4241961,
+		"lng": -121.7114362
+	},
+	"Snohomish County, Washington": {
+		"lat": 48.0329979,
+		"lng": -121.8339472
+	},
+	"Spokane County, Washington": {
+		"lat": 47.65869300000001,
+		"lng": -117.4225481
+	},
+	"Thurston County, Washington": {
+		"lat": 46.8645747,
+		"lng": -122.7695986
+	},
+	"Whatcom County, Washington": {
+		"lat": 48.8787167,
+		"lng": -121.9718657
+	},
+	"Yakima County, Washington": {
+		"lat": 46.543606,
+		"lng": -120.7558292
+	},
+	"Kanawha County, West Virginia": {
+		"lat": 38.2556905,
+		"lng": -81.42789839999999
+	},
+	"Brown County, Wisconsin": {
+		"lat": 44.45616740000001,
+		"lng": -87.9334803
+	},
+	"Dane County, Wisconsin": {
+		"lat": 43.0186073,
+		"lng": -89.5497632
+	},
+	"Eau Claire County, Wisconsin": {
+		"lat": 44.7683909,
+		"lng": -91.28910359999999
+	},
+	"Fond du Lac County, Wisconsin": {
+		"lat": 43.7008379,
+		"lng": -88.24611829999999
+	},
+	"Kenosha County, Wisconsin": {
+		"lat": 42.5810954,
+		"lng": -88.05337519999999
+	},
+	"Manitowoc County, Wisconsin": {
+		"lat": 44.109588,
+		"lng": -87.7752368
+	},
+	"Marathon County, Wisconsin": {
+		"lat": 44.850452,
+		"lng": -89.8505012
+	},
+	"Milwaukee County, Wisconsin": {
+		"lat": 43.03879490000001,
+		"lng": -87.9065334
+	},
+	"Outagamie County, Wisconsin": {
+		"lat": 44.4636545,
+		"lng": -88.4016041
+	},
+	"Portage County, Wisconsin": {
+		"lat": 44.4735957,
+		"lng": -89.4742177
+	},
+	"Racine County, Wisconsin": {
+		"lat": 42.727213,
+		"lng": -88.0326922
+	},
+	"Rock County, Wisconsin": {
+		"lat": 42.6251506,
+		"lng": -89.0179332
+	},
+	"Sheboygan County, Wisconsin": {
+		"lat": 43.7173595,
+		"lng": -87.9284802
+	},
+	"Washington County, Wisconsin": {
+		"lat": 43.3932586,
+		"lng": -88.24611829999999
+	},
+	"Waukesha County, Wisconsin": {
+		"lat": 43.0072599,
+		"lng": -88.32393090000001
+	},
+	"Winnebago County, Wisconsin": {
+		"lat": 44.0126679,
+		"lng": -88.7108964
+	},
+	"Madison County, Alabama": {
+		"lat": 34.72397309999999,
+		"lng": -86.49965460000001
+	},
+	"Yavapai County, Arizona": {
+		"lat": 34.6463981,
+		"lng": -112.4291464
+	},
+	"Pueblo County, Colorado": {
+		"lat": 38.2528534,
+		"lng": -104.4723301
+	},
+	"Middlesex County, Connecticut": {
+		"lat": 41.46985050000001,
+		"lng": -72.4731529
+	},
+	"Tolland County, Connecticut": {
+		"lat": 41.8418987,
+		"lng": -72.37846789999999
+	},
+	"Windham County, Connecticut": {
+		"lat": 41.8275622,
+		"lng": -72.0468164
+	},
+	"Clay County, Florida": {
+		"lat": 29.9943564,
+		"lng": -81.77870209999999
+	},
+	"Lake County, Florida": {
+		"lat": 28.702847,
+		"lng": -81.77870209999999
+	},
+	"St. Lucie County, Florida": {
+		"lat": 27.3225563,
+		"lng": -80.54384499999999
+	},
+	"Cherokee County, Georgia": {
+		"lat": 34.2514526,
+		"lng": -84.4802606
+	},
+	"Lowndes County, Georgia": {
+		"lat": 30.8600022,
+		"lng": -83.2934086
+	},
+	"Muscogee County, Georgia": {
+		"lat": 32.4794133,
+		"lng": -84.8984775
+	},
+	"Bannock County, Idaho": {
+		"lat": 42.5836362,
+		"lng": -112.1430215
+	},
+	"Madison County, Indiana": {
+		"lat": 40.1469349,
+		"lng": -85.684578
+	},
+	"Scott County, Iowa": {
+		"lat": 41.6393199,
+		"lng": -90.6393702
+	},
+	"Story County, Iowa": {
+		"lat": 42.1040438,
+		"lng": -93.5003454
+	},
+	"Campbell County, Kentucky": {
+		"lat": 38.8951891,
+		"lng": -84.3962535
+	},
+	"Calcasieu Parish, Louisiana": {
+		"lat": 30.2089286,
+		"lng": -93.33889169999999
+	},
+	"Androscoggin County, Maine": {
+		"lat": 44.19124160000001,
+		"lng": -70.17070369999999
+	},
+	"Berkshire County, Massachusetts": {
+		"lat": 42.311782,
+		"lng": -73.1821623
+	},
+	"Bay County, Michigan": {
+		"lat": 43.7109732,
+		"lng": -84.01674229999999
+	},
+	"Berrien County, Michigan": {
+		"lat": 42.0320742,
+		"lng": -86.7416374
+	},
+	"Monroe County, Michigan": {
+		"lat": 41.9738893,
+		"lng": -83.5070203
+	},
+	"Yellowstone County, Montana": {
+		"lat": 45.78565769999999,
+		"lng": -108.4343805
+	},
+	"Grafton County, New Hampshire": {
+		"lat": 43.9087929,
+		"lng": -71.825994
+	},
+	"Merrimack County, New Hampshire": {
+		"lat": 43.2844846,
+		"lng": -71.6673352
+	},
+	"Cattaraugus County, New York": {
+		"lat": 42.2318132,
+		"lng": -78.74762079999999
+	},
+	"Clinton County, New York": {
+		"lat": 44.7904203,
+		"lng": -73.6005824
+	},
+	"Madison County, New York": {
+		"lat": 42.98059749999999,
+		"lng": -75.8069082
+	},
+	"Oswego County, New York": {
+		"lat": 43.482533,
+		"lng": -76.17837390000001
+	},
+	"Schenectady County, New York": {
+		"lat": 42.8493445,
+		"lng": -73.98300290000002
+	},
+	"Tompkins County, New York": {
+		"lat": 42.4575747,
+		"lng": -76.5488232
+	},
+	"Wayne County, New York": {
+		"lat": 40.8516701,
+		"lng": -93.25993179999999
+	},
+	"Gaston County, North Carolina": {
+		"lat": 35.2895651,
+		"lng": -81.20781640000001
+	},
+	"Pitt County, North Carolina": {
+		"lat": 35.5589221,
+		"lng": -77.4242972
+	},
+	"Clermont County, Ohio": {
+		"lat": 39.0500636,
+		"lng": -84.1499347
+	},
+	"Greene County, Ohio": {
+		"lat": 39.697399,
+		"lng": -83.8897057
+	},
+	"Licking County, Ohio": {
+		"lat": 40.1460895,
+		"lng": -82.4752757
+	},
+	"Wayne County, Ohio": {
+		"lat": 40.7588598,
+		"lng": -81.9534815
+	},
+	"Payne County, Oklahoma": {
+		"lat": 36.1449988,
+		"lng": -97.0068393
+	},
+	"Adams County, Pennsylvania": {
+		"lat": 39.8522417,
+		"lng": -77.2864879
+	},
+	"Butler County, Pennsylvania": {
+		"lat": 40.9115243,
+		"lng": -79.8296743
+	},
+	"Kent County, Rhode Island": {
+		"lat": 41.6579147,
+		"lng": -71.7147951
+	},
+	"Beaufort County, South Carolina": {
+		"lat": 32.2860396,
+		"lng": -80.7214417
+	},
+	"Florence County, South Carolina": {
+		"lat": 33.9828684,
+		"lng": -79.6502105
+	},
+	"Pennington County, South Dakota": {
+		"lat": 43.8901111,
+		"lng": -102.2547919
+	},
+	"Wichita County, Texas": {
+		"lat": 33.9309651,
+		"lng": -98.7481167
+	},
+	"Montgomery County, Virginia": {
+		"lat": 37.2070304,
+		"lng": -80.4103957
+	},
+	"Franklin County, Washington": {
+		"lat": 38.55810719999999,
+		"lng": -91.01208779999999
+	},
+	"Dodge County, Wisconsin": {
+		"lat": 43.3994215,
+		"lng": -88.7108964
+	},
+	"Jefferson County, Wisconsin": {
+		"lat": 43.089927,
+		"lng": -88.7108964
+	},
+	"La Crosse County, Wisconsin": {
+		"lat": 43.8617023,
+		"lng": -91.13530200000001
+	},
+	"St. Croix County, Wisconsin": {
+		"lat": 45.0497844,
+		"lng": -92.3875695
+	},
+	"Mohave County, Arizona": {
+		"lat": 35.2143346,
+		"lng": -113.7632828
+	},
+	"Douglas County, Georgia": {
+		"lat": 33.7290225,
+		"lng": -84.7315563
+	},
+	"Forsyth County, Georgia": {
+		"lat": 34.2358502,
+		"lng": -84.14351359999999
+	},
+	"Tazewell County, Illinois": {
+		"lat": 40.5522078,
+		"lng": -89.4742177
+	},
+	"Pottawattamie County, Iowa": {
+		"lat": 41.3911501,
+		"lng": -95.4777811
+	},
+	"Do�a Ana County, New Mexico": {
+		"lat": 32.485767,
+		"lng": -106.7234639
+	},
+	"Union County, North Carolina": {
+		"lat": 34.9338651,
+		"lng": -80.54384499999999
+	},
+	"Clark County, Ohio": {
+		"lat": 39.8912092,
+		"lng": -83.67739279999999
+	},
+	"Canadian County, Oklahoma": {
+		"lat": 35.5593784,
+		"lng": -98.04651849999999
+	},
+	"Mercer County, Pennsylvania": {
+		"lat": 41.2619821,
+		"lng": -80.1875065
+	},
+	"Berkeley County, South Carolina": {
+		"lat": 33.1260618,
+		"lng": -80.0087746
+	},
+	"Wilson County, Tennessee": {
+		"lat": 36.1626241,
+		"lng": -86.2970998
+	},
+	"Potter County, Texas": {
+		"lat": 35.404373,
+		"lng": -101.9804613
+	},
+	"Randall County, Texas": {
+		"lat": 34.9020377,
+		"lng": -101.7979613
+	},
+	"Grays Harbor County, Washington": {
+		"lat": 46.9953526,
+		"lng": -123.7012468
+	},
+	"Cabell County, West Virginia": {
+		"lat": 38.43919270000001,
+		"lng": -82.25832969999999
+	},
+	"Walworth County, Wisconsin": {
+		"lat": 42.6202834,
+		"lng": -88.55653099999999
+	},
+	"Wood County, Wisconsin": {
+		"lat": 44.4747774,
+		"lng": -90.0746767
+	},
+	"Laramie County, Wyoming": {
+		"lat": 41.4269559,
+		"lng": -104.8454619
+	},
+	"Natrona County, Wyoming": {
+		"lat": 42.8313837,
+		"lng": -106.912251
+	},
+	"Washington County, Arkansas": {
+		"lat": 35.9307703,
+		"lng": -94.15137639999999
+	},
+	"Black Hawk County, Iowa": {
+		"lat": 42.447804,
+		"lng": -92.38136209999999
+	},
+	"Grand Traverse County, Michigan": {
+		"lat": 44.687984,
+		"lng": -85.52002399999999
+	},
+	"Scott County, Minnesota": {
+		"lat": 44.6834072,
+		"lng": -93.54079089999999
+	},
+	"Ontario County, New York": {
+		"lat": 42.85098379999999,
+		"lng": -77.2864879
+	},
+	"Yamhill County, Oregon": {
+		"lat": 45.1771983,
+		"lng": -123.2395303
+	},
+	"Blair County, Pennsylvania": {
+		"lat": 40.4531318,
+		"lng": -78.3842227
+	},
+	"Horry County, South Carolina": {
+		"lat": 33.9196567,
+		"lng": -78.9288242
+	},
+	"Taylor County, Texas": {
+		"lat": 32.2455088,
+		"lng": -99.8124935
+	},
+	"Portsmouth city, Virginia": {
+		"lat": 36.8354258,
+		"lng": -76.2982742
+	},
+	"Navajo County, Arizona": {
+		"lat": 35.4019765,
+		"lng": -110.1402594
+	},
+	"Sutter County, California": {
+		"lat": 39.0219764,
+		"lng": -121.6739371
+	},
+	"Indian River County, Florida": {
+		"lat": 27.6947732,
+		"lng": -80.54384499999999
+	},
+	"Kauai County, Hawaii": {
+		"lat": 21.9661076,
+		"lng": -159.5737912
+	},
+	"LaSalle County, Illinois": {
+		"lat": 41.4363987,
+		"lng": -88.94138650000001
+	},
+	"Delaware County, Indiana": {
+		"lat": 40.2583533,
+		"lng": -85.39627689999999
+	},
+	"Madison County, Kentucky": {
+		"lat": 37.7143001,
+		"lng": -84.3121264
+	},
+	"Ouachita Parish, Louisiana": {
+		"lat": 32.4271852,
+		"lng": -92.2236667
+	},
+	"Kennebec County, Maine": {
+		"lat": 44.4499153,
+		"lng": -69.7038278
+	},
+	"Carver County, Minnesota": {
+		"lat": 44.82543099999999,
+		"lng": -93.7841503
+	},
+	"Sullivan County, New York": {
+		"lat": 41.6897493,
+		"lng": -74.7805192
+	},
+	"Clallam County, Washington": {
+		"lat": 48.0405122,
+		"lng": -124.016766
+	},
+	"Cochise County, Arizona": {
+		"lat": 31.82845799999999,
+		"lng": -109.949686
+	},
+	"Monroe County, Florida": {
+		"lat": 24.5557001,
+		"lng": -81.78259849999999
+	},
+	"St. Johns County, Florida": {
+		"lat": 29.9719419,
+		"lng": -81.42789839999999
+	},
+	"Bibb County, Georgia": {
+		"lat": 32.7865735,
+		"lng": -83.7199136
+	},
+	"Dubuque County, Iowa": {
+		"lat": 42.4694679,
+		"lng": -90.8294002
+	},
+	"Eaton County, Michigan": {
+		"lat": 42.5886496,
+		"lng": -84.7733325
+	},
+	"Marquette County, Michigan": {
+		"lat": 46.644579,
+		"lng": -87.5593823
+	},
+	"Blue Earth County, Minnesota": {
+		"lat": 43.9505132,
+		"lng": -93.9878427
+	},
+	"Sarpy County, Nebraska": {
+		"lat": 41.0744042,
+		"lng": -96.19513200000002
+	},
+	"San Juan County, New Mexico": {
+		"lat": 36.3882439,
+		"lng": -108.2377519
+	},
+	"Jefferson County, New York": {
+		"lat": 44.0607421,
+		"lng": -75.9927652
+	},
+	"St. Lawrence County, New York": {
+		"lat": 44.4473142,
+		"lng": -74.930206
+	},
+	"Robeson County, North Carolina": {
+		"lat": 34.6383858,
+		"lng": -79.1096901
+	},
+	"Wayne County, North Carolina": {
+		"lat": 35.3565499,
+		"lng": -77.973865
+	},
+	"Grand Forks County, North Dakota": {
+		"lat": 48.0037819,
+		"lng": -97.35945249999999
+	},
+	"Delaware County, Ohio": {
+		"lat": 40.3033098,
+		"lng": -83.03613759999999
+	},
+	"Tuscarawas County, Ohio": {
+		"lat": 40.3978972,
+		"lng": -81.42789839999999
+	},
+	"Rogers County, Oklahoma": {
+		"lat": 36.3898068,
+		"lng": -95.6457951
+	},
+	"Clearfield County, Pennsylvania": {
+		"lat": 40.9519685,
+		"lng": -78.5660852
+	},
+	"Northumberland County, Pennsylvania": {
+		"lat": 40.86743389999999,
+		"lng": -76.6874701
+	},
+	"Sullivan County, Tennessee": {
+		"lat": 36.4933147,
+		"lng": -82.34518899999999
+	},
+	"Riley County, Kansas": {
+		"lat": 39.3686475,
+		"lng": -96.83509989999999
+	},
+	"Clinton County, Michigan": {
+		"lat": 42.9663458,
+		"lng": -84.5222189
+	},
+	"Cape May County, New Jersey": {
+		"lat": 39.105884,
+		"lng": -74.8273184
+	},
+	"Cabarrus County, North Carolina": {
+		"lat": 35.4168123,
+		"lng": -80.5882803
+	},
+	"Iredell County, North Carolina": {
+		"lat": 35.8310501,
+		"lng": -80.89865019999999
+	},
+	"Geauga County, Ohio": {
+		"lat": 41.4641521,
+		"lng": -81.20781640000001
+	},
+	"Wood County, Ohio": {
+		"lat": 41.34784579999999,
+		"lng": -83.67739279999999
+	},
+	"Armstrong County, Pennsylvania": {
+		"lat": 40.8790518,
+		"lng": -79.4703885
+	},
+	"Fayette County, Pennsylvania": {
+		"lat": 39.9272324,
+		"lng": -79.6502105
+	},
+	"Indiana County, Pennsylvania": {
+		"lat": 40.6850762,
+		"lng": -79.1096901
+	},
+	"Newport County, Rhode Island": {
+		"lat": 41.5016969,
+		"lng": -71.2399037
+	},
+	"Sumner County, Tennessee": {
+		"lat": 36.4718084,
+		"lng": -86.49965460000001
+	},
+	"Essex County, Massachusetts": {
+		"lat": 42.7051144,
+		"lng": -70.90712359999999
+	},
+	"Ector County, Texas": {
+		"lat": 31.8246483,
+		"lng": -102.5298028
+	}
+}
