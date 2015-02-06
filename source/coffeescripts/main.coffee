@@ -3,6 +3,7 @@ $ ->
   $(document).foundation()
 
   view = $('#container')
-  new Scatterplot commuting_data, view
+  # new Scatterplot commuting_data, view
+  new Cloropleth commuting_data, view
   new Linegraph commuting_data, view
   new Bargraph commuting_data, view
