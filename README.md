@@ -35,3 +35,7 @@ The `commuting_data.js` file loaded by the browser can be generated from the raw
           $ grunt preview
 
       This serves the site on <http://localhost:8000>
+
+## Questions?
+
+Feel free to contact me at `mike@stubna.com`
